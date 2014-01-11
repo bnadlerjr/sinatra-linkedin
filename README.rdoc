@@ -1,4 +1,6 @@
 = Sinatra LinkedIn
+{<img src="https://gemnasium.com/bnadlerjr/sinatra-linkedin.png" alt="Dependency Status" />}[https://gemnasium.com/bnadlerjr/sinatra-linkedin]
+
 Provides helpers for accessing the LinkedIn API in Sinatra applications. Relies
 on the {LinkedIn gem}[https://github.com/pengwynn/linkedin] to do the heavy
 lifting.
