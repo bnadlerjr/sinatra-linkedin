@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency "rake",      "~> 10.1.1"
   s.add_development_dependency "contest",   "~> 0.1.3"
-  s.add_development_dependency "mocha",     "~> 0.14.0"
+  s.add_development_dependency "mocha",     "~> 1.0.0"
   s.add_development_dependency "rack-test", "~> 0.6.1"
   s.add_development_dependency "rdoc",      "~> 4.1.0"
 
